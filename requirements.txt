@@ -1,0 +1,6 @@
+azure-functions==1.11.3
+azure-functions-durable==1.0.0b12
+azure-storage-blob==12.8.1
+paramiko==2.7.2
+azure-keyvault-secrets==4.3.0
+azure-identity==1.7.0

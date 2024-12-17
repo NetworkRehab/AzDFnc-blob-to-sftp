@@ -1,0 +1,14 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "FUNCTIONS_WORKER_RUNTIME": "python",
+        "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+        "BLOB_CONTAINER_NAME": "your-container-name",
+        "SFTP_HOST": "your-sftp-host",
+        "SFTP_PORT": "22",
+        "SFTP_USERNAME": "your-sftp-username",
+        "SFTP_REMOTE_PATH": "/remote/path",
+        "KEYVAULT_NAME": "your-keyvault-name",
+        "SSH_KEY_SECRET_NAME": "sftp-private-key"
+    }
+}
